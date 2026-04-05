@@ -4,6 +4,8 @@
 
 Tutor de Python para iniciantes absolutos, construído com Streamlit e integrado à API da Groq.
 
+Teste o projeto: [https://prof-python.streamlit.app/](https://prof-python.streamlit.app/)
+
 ## Visão geral
 
 O **Professor Python** é um aplicativo de chat educacional com foco em ensino didático e progressivo de Python.  
